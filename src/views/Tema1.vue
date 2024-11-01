@@ -430,25 +430,25 @@
       .col-lg-10.col-md-12.col-sm-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Capacitación al equipo de postventa")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-auto
                 img(src='@/assets/curso/temas/tema1/tar1-1.png', alt='')
               .col-10
                 p.mt-3 Al igual que el equipo de atención al cliente, este equipo deber ser entrenado en las tareas a realizar con respecto a los elementos o partes de la postventa, cada una de las etapas, además de los protocoles de atención y comunicación de la organización. 
           .row.col-xl-11.m-auto(titulo="Alistar los recursos que en cada actividad se necesitan")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-auto
                 img(src='@/assets/curso/temas/tema1/tar1-2.png', alt='')
               .col-10
                 p.mt-3 De acuerdo con lo expuesto en la planificación, revisar los recursos humanos, técnicos y financieros que son necesarios para llevar a cabo el plan. 
           .row.col-xl-11.m-auto(titulo="Realizar el plan")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-auto
                 img(src='@/assets/curso/temas/tema1/tar1-3.png', alt='')
               .col-10
                 p.mt-3 Es el momento de llevar a cabo la operación en cada uno de sus componentes. 
           .row.col-xl-11.m-auto(titulo="Realizar los informes de servicio")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-auto
                 img(src='@/assets/curso/temas/tema1/tar1-4.png', alt='').img95
               .col-10

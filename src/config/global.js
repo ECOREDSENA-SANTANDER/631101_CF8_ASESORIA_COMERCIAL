@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'La postventa',
     descripcionCurso:
       'Este componente examina el servicio postventa como una fase clave del proceso de venta. Analiza cómo atraer, captar y fidelizar clientes a través del reconocimiento de las etapas del servicio postventa, así como los elementos esenciales que lo constituyen. Incluye la evaluación del proceso de calidad del servicio postventa para asegurar la satisfacción del cliente y fomentar su lealtad. También aborda la manera de estructurar adecuadamente el servicio postventa en la empresa, las herramientas necesarias para ofrecerlo eficazmente, su importancia y los diferentes tipos de servicios postventa disponibles.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     /*imagenesDecorativasBanner: [
       {
