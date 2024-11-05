@@ -103,11 +103,58 @@
 
     p.mb-4.text-center Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la tabla 5:
 
-    p TABLA
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.col-md-12.col-sm-12
 
-    p.mb-4.text-center Luego de realizarse la venta de los productos y servicios, la empresa puede hacer distintas actividades dirigidas según Pérez (2013) a:
+        .titulo-sexto.color-secundario.mb-4
+          h5 Tabla 5. 
+          | Tipos de servicios postventas en las empresas
 
-    P INFOGRAFIA CON PUNTOS CALIENTES
+        .tabla-a.color-acento-contenido
+          table
+            caption.mt-0 Nota. Pérez  (2013).
+            thead
+              tr
+                th.bgmorado100.text-white Usuario
+                th.bgmorado100.text-white Cliente
+            tbody
+              tr
+                td.bggristabla2.text-center #[b Promocionales]
+                td.bggristabla2 Promover descuentos especiales a los clientes, tarjetas de puntos para realizar compras, llamadas de invitación a promociones y concursos.
+              tr
+                td.text-center #[b Psicológicos] 
+                td Servicios ligados a la motivación del cliente, felicitaciones en el cumpleaños, llamar al cliente para preguntarle sobre la satisfacción de su compra.
+              tr
+                td.bggristabla2.text-center #[b De seguridad]
+                td.bggristabla2 Dar garantías, devoluciones del dinero sino está satisfecho por su compra.
+              tr
+                td.text-center #[b De mantenimiento]
+                td Son los servicios de mantenimiento o de soporte técnico. Este servicio es muy agradecido por los clientes y sirve para fidelizar.
+
+    p.mb-5.text-center Luego de realizarse la venta de los productos y servicios, la empresa puede hacer distintas actividades dirigidas según Pérez (2013) a:
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-8.col-md-12.col-sm-12
+
+        ImagenInfografica.color-acento-botones
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema2/fig1.png', alt='Texto que describa la imagen')
+          .tarjeta.bggristabla2.p-4(x="69%" y="14%" numero="+")
+            p Luego de haber tomado la decisión de realizar la compra, mientras llega el producto, si toca entregar la mercancía en el domicilio, bien sea off-line u on-line informarle al cliente la trazabilidad del producto para la entrega.
+          .tarjeta.bggristabla2.p-4(x="87%" y="44%" numero="+")
+            p Este es el servicio más conocido por los clientes y adoptado por las empresas, puede incluir reparación hasta el cambio del producto. De ofrecer además la garantía extendida que incluye más tiempo y otros agregados.
+          .tarjeta.bggristabla2.p-4(x="68%" y="79%" numero="+")
+            p Dependiendo el producto puede prestar apoyo técnico sobre cuidados o manejos del producto.
+          .tarjeta.bggristabla2.p-4(x="32%" y="79%" numero="+")
+            p Busca la manera que los clientes interactúen con la empresa sobre sus productos y servicios, bien a través de llamadas telefónicas o encuestas.
+          .tarjeta.bggristabla2.p-4(x="11%" y="47%" numero="+")
+            p a todo cliente le gustan las ofertas y las promociones, y los clientes se sienten más comprometidos cuando se les comunican esas promociones por teléfono o email.
+          .tarjeta.bggristabla2.p-4(x="28%" y="14%" numero="+")
+            p Este es un tema que genera inconvenientes con los clientes cuando por cualquier razón procuran hacer devolución de los productos que compran, la empresa debe tener claras los términos y condiciones para realizar este servicio inverso, además comunicarlo.
+    
+
+
 
     separador
     #t_2_3.titulo-segundo.mb-4

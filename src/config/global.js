@@ -206,7 +206,7 @@ export default {
     },
     {
       referencia:
-        'Da Silva, D. (2020). ¿Qué es atención al cliente? Guía introductoria con infografía',
+        'Da Silva, D. (2020). ¿Qué es atención al cliente? Guía introductoria con infografía.',
       link: 'https://www.zendesk.com.mx/blog/que-es-atencion-al-cliente/',
     },
     {
@@ -220,11 +220,6 @@ export default {
         'El viaje del cliente (2021). ¿Qué es el Servicio al Cliente? Definición y características.',
       link:
         'https://elviajedelcliente.com/academia/servicio-al-cliente-customer-service/',
-    },
-    {
-      referencia:
-        'Escamilla, G. (2020). Fidelización del cliente: concepto, importancia, consejos y métricas.',
-      link: 'https://www.rdstation.com/co/blog/fidelizacion-del-cliente/',
     },
     {
       referencia:
