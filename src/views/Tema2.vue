@@ -149,12 +149,10 @@
           .tarjeta.bggristabla2.p-4(x="32%" y="79%" numero="+")
             p Busca la manera que los clientes interactúen con la empresa sobre sus productos y servicios, bien a través de llamadas telefónicas o encuestas.
           .tarjeta.bggristabla2.p-4(x="11%" y="47%" numero="+")
-            p a todo cliente le gustan las ofertas y las promociones, y los clientes se sienten más comprometidos cuando se les comunican esas promociones por teléfono o email.
+            p A todo cliente le gustan las ofertas y las promociones, y los clientes se sienten más comprometidos cuando se les comunican esas promociones por teléfono o email.
           .tarjeta.bggristabla2.p-4(x="28%" y="14%" numero="+")
             p Este es un tema que genera inconvenientes con los clientes cuando por cualquier razón procuran hacer devolución de los productos que compran, la empresa debe tener claras los términos y condiciones para realizar este servicio inverso, además comunicarlo.
     
-
-
 
     separador
     #t_2_3.titulo-segundo.mb-4
@@ -164,8 +162,8 @@
 
     figure
       .video
-        iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/3Q8v2opknoo?si=Sj-5L7LkKKXzeS5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-
+        iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/quSRRImn6k8?si=JylV_DElXucspEpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Fases del servicio postventa.
 
 
 </template>
