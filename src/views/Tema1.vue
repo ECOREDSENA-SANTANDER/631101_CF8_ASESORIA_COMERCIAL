@@ -37,15 +37,15 @@
         ol.lista-ol--cuadro.lista-ol--separador.fa-ol
           li
             .lista-ol--cuadro__vineta
-              span 1
+              span 4
             span.mb-0 La solución de las quejas. 
           li
             .lista-ol--cuadro__vineta
-              span 2
+              span 5
             span.mb-0 Las reclamaciones.
           li
             .lista-ol--cuadro__vineta
-              span 3
+              span 6
             span.mb-0 Los servicios de reparación y mantenimiento (p. 327).
           li
 
@@ -599,7 +599,7 @@
               h3.bgblanco.text-center.p-2(data-aos="fade-right") Recepción y atención de incidencias
           .row.justify-content-center.p-2
             p.text-center(data-aos="fade-right") #[b Atención de la llamada:] se recibe la llamada de un cliente con problemas en su computador que aún tiene garantía. 
-            p.text-center(data-aos="fade-right") #[b Gestión de la llamada:] sse le pide ciertas instrucciones, como si esta instalado a la energía, si la batería está cargada, entre otras. 
+            p.text-center(data-aos="fade-right") #[b Gestión de la llamada:] se le pide ciertas instrucciones, como, si está instalado a la energía, si la batería está cargada, entre otras. 
         .tarjeta.moradaclara.p-4
           .row.justify-content-center.p-4
             .col-7

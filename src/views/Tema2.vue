@@ -29,7 +29,7 @@
               .col-auto
                 img(src='@/assets/curso/temas/tema2/tab1-3.png', alt='')
               .col-8
-                p Contar con una pagina web es hasta hoy el mejor modo más económico y rápido para comunicarse con el cliente.  
+                p Contar con una página web es hasta hoy el mejor modo más económico y rápido para comunicarse con el cliente.  
           .tarjeta.color-secundario--borde.p-4(titulo="Visita personal")
             .row.align-items-center.justify-content-center
               .col-auto
@@ -107,7 +107,7 @@
       .col-lg-10.col-md-12.col-sm-12
 
         .titulo-sexto.color-secundario.mb-4
-          h5 Tabla 5. 
+          h5 Tabla 4. 
           | Tipos de servicios postventas en las empresas
 
         .tabla-a.color-acento-contenido
