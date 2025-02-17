@@ -60,7 +60,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Herramientas Postventa',
+        titulo: 'Herramientas postventa',
         desarrolloContenidos: true,
         subMenu: [
           {
